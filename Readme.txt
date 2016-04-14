@@ -8,9 +8,10 @@ grizzly2-http -  standalone web server to host our rest service.
 All dependencies are included in maven.
 
 You can also run the
+prime-service-1.0-SNAPSHOT-jar-with-dependencies.jar
+which runs the standalone grizzly server to access the rest service
 
-Running the com.icap.main class starts the web server
-The rest service is available at
+The rest service will be available at
 
 http://localhost:8080/icap/
 
